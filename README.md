@@ -1,4 +1,4 @@
-### No description, website, or topics provided 👋
+### No description, website, or topics provided <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Technologies: 
 
@@ -9,6 +9,10 @@
 
 
 🔭 I’m currently working on this Readme :sunglasses:
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=cvic.cvic)
+
 
 <!--
 **cvic/cvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
