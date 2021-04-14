@@ -1,4 +1,4 @@
-### No description, website, or topics provided :sunglasses: 👋
+### No description, website, or topics provided 👋
 
 ## Technologies: 
 
@@ -8,7 +8,7 @@
 <img alt="clojure" src="https://img.shields.io/badge/Clojure-ED8B00?style=flat-square&logo=clojure&logoColor=white">
 
 
-🔭 I’m currently working on this Readme :awesome:
+🔭 I’m currently working on this Readme :sunglasses:
 
 <!--
 **cvic/cvic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
