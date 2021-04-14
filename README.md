@@ -1,5 +1,8 @@
 ### No description, website, or topics provided <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=highcontrast&animation=default&layout=zues&font=default)
+
+
 ## Technologies: 
 
 <p>
