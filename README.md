@@ -11,7 +11,7 @@
 <img alt="clojure" src="https://img.shields.io/badge/Clojure-ED8B00?style=flat-square&logo=clojure&logoColor=white">
 
 
-🔭 I’m currently working on this Readme :sunglasses:
+🔭 The best you can do is understand the overall layering, and know how to search for the oddball tool that may come in handy :sunglasses:
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cvic.cvic)
