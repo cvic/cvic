@@ -7,6 +7,7 @@
 
 <p>
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+<img alt="javascript" src="https://img.shields.io/badge/Javascript-ED8B00?style=flat-square&logo=javascript&logoColor=white">
 <img alt="python" src="https://img.shields.io/badge/Python-ED8B00?style=flat-square&logo=python&logoColor=white">
 <img alt="clojure" src="https://img.shields.io/badge/Clojure-ED8B00?style=flat-square&logo=clojure&logoColor=white">
 
